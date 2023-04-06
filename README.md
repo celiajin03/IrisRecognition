@@ -1,6 +1,6 @@
 # Iris Recognition Algorithm
 
-This repository contains an implementation of an iris recognition algorithm based on the paper by [Ma et al., 2003](https://ieeexplore.ieee.org/document/1251145) (see reference), but focuses on Image Preprocessing, Feature Extraction, and Iris Matching only and uses the provided dataset for testing.
+This repository contains an implementation of an iris recognition algorithm based on the paper by [Ma et al., 2003](https://ieeexplore.ieee.org/document/1251145) (see reference), but focuses on Image Preprocessing, Feature Extraction, and Iris Matching only and uses the provided dataset for testing. 
 
 <kbd>
 <img src="https://user-images.githubusercontent.com/114009025/230469011-21655c5c-987d-4175-9954-ebece83336fd.png">
